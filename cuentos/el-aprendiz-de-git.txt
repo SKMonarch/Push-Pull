@@ -1,7 +1,0 @@
-Cuento 1: "El Viaje de Ramiro por el Repositorio"
-
-En una pequeña ciudad, vivía un joven programador llamado Ramiro. Ramiro siempre había tenido una pasión por la programación, pero el mundo de control de versiones y git le resultaba desconocido y un poco abrumador. Decidió embarcarse en un viaje para aprender git y conquistar el mundo del desarrollo colaborativo.
-Ramiro comenzó su viaje en el Repositorio Central, donde las ramas y los commits se entrelazaban como caminos en un bosque. Siguiendo los consejos de un viejo mentor, Ramiro creó su propia rama llamada "AprendiendoGit". Cada día, exploraba el bosque del repositorio, realizando pequeños cambios y creando commits para registrar sus descubrimientos.
-En su travesía, Ramiro cometió algunos errores. En una ocasión, fusionó sus cambios de manera incorrecta y causó un conflicto en el repositorio. Pero no se rindió. Aprendió a resolver conflictos y a utilizar herramientas como rebase para reorganizar su camino.
-Con el tiempo, Ramiro se hizo más hábil en el uso de git. Comenzó a colaborar con otros programadores en proyectos compartidos, enviando y recibiendo pull requests como mensajes entre amigos. Cada pull request era como un capítulo en su historia de aprendizaje.
-Finalmente, Ramiro completó su viaje. Había recorrido el camino de los commits, explorado los bosques de las ramas y había conquistado su temor al control de versiones. Se convirtió en un programador más seguro y colaborativo, dispuesto a compartir sus conocimientos con otros viajeros.

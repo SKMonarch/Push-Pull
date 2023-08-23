@@ -1,7 +1,0 @@
-Cuento 2: "El Misterio del Commit Desaparecido"
-
-En la bulliciosa ciudad de Bitville vivía un joven programador llamado Lola. Estaba emocionada por aprender git y controlar sus proyectos de manera más eficiente. Un día, mientras trabajaba en un código importante, se encontró con un misterio desconcertante: uno de sus commits había desaparecido misteriosamente del historial.
-Lola decidió investigar este enigma. Se adentró en el mundo de git log y git reflog, siguiendo las pistas que los commits restantes proporcionaban. Cada commit era como una pieza de un rompecabezas, y Lola estaba decidida a resolverlo.
-Mientras investigaba, Lola descubrió que había realizado un rebase sin darse cuenta, lo que había causado que el commit desapareciera. No se rindió y decidió intentar recuperarlo. Utilizando sus nuevas habilidades, creó una nueva rama y utilizó el comando git cherry-pick para traer de vuelta el commit perdido.
-A medida que avanzaba en su investigación, Lola aprendió más sobre cómo funciona git en detalle. Comprendió la importancia de las referencias, las ramas y cómo los commits se entrelazan en la historia del proyecto. Cada paso que daba la acercaba más a resolver el misterio.
-Finalmente, Lola logró recuperar el commit perdido y restaurar la historia de su proyecto. Había aprendido una valiosa lección sobre la importancia de entender las acciones que realiza en git y cómo pueden afectar el historial del proyecto. Ahora, Lola era una programadora más cuidadosa y atenta, lista para enfrentar cualquier desafío que git le presentara en el futuro.
